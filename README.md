@@ -40,14 +40,22 @@ Repository
 https://github.com/KevinVanLierdeweb/glamour-barbershop.git
 
 WhatsApp Reservation Bot
+
 Description
+
 An automated WhatsApp assistant built with Node.js to manage restaurant reservations. It uses an in-memory finite state machine to guide users through a conversational booking funnel, preventing overbooking and handling real-time database synchronizations.
+
 Technologies
+
 Node.js, Baileys (WebSockets), Supabase (PostgreSQL), Express.js, Server-Sent Events (SSE)
 Highlights
+
 State Management: Implemented an in-memory Finite State Machine (FSM) to handle concurrent multi-user conversational workflows with minimal latency.
+
 Database & Logic: Integrated Supabase for CRUD operations, featuring resource allocation algorithms to prevent overbooking, and "soft deletes" for cancellations.
+
 Real-time Telemetry: Built an admin dashboard using Server-Sent Events (SSE) to stream QR codes and system logs efficiently.
+
 Security & UX: Applied Regex for data validation, time-based rate limiting (anti-spam), and simulated typing delays for a natural user experience.
 
 Repository
