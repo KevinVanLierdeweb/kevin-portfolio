@@ -60,3 +60,25 @@ Security & UX: Applied Regex for data validation, time-based rate limiting (anti
 
 Repository
 https://github.com/KevinVanLierdeweb/wsp_bot.git
+
+### GrowTree
+
+#### Description
+Desktop application for personal development built with Qt and C++, featuring a local authentication system and data persistence using MySQL. The application allows users to register, log in, and manage their personal growth, including goals and habits.
+
+#### Technologies
+C++, Qt (Widgets), MySQL
+
+#### Highlights
+- Local authentication system backed by MySQL
+- Integration with Qt SQL (`QSqlDatabase`, `QSqlQuery`)
+- Structured architecture separating UI, logic, and database access
+- Fully local application ensuring data privacy
+
+#### Context
+Developed as a team project of two students during the 4th year of a technical secondary school program (mid–late 2025), focusing on real-world application of desktop development and database integration.
+
+#### Repository
+https://github.com/KevinVanLierdeweb/proyecto-GrowTree.git
+
+---
