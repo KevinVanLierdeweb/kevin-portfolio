@@ -78,7 +78,6 @@ C++, Qt (Widgets), MySQL
 #### Context
 Developed as a team project of two students during the 4th year of a technical secondary school program (mid–late 2025), focusing on real-world application of desktop development and database integration.
 
-#### Repository
-https://github.com/KevinVanLierdeweb/proyecto-GrowTree.git
+Repository https://github.com/KevinVanLierdeweb/proyecto-GrowTree.git
 
 ---
