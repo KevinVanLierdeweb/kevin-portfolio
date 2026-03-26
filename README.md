@@ -39,7 +39,7 @@ Structured sections for services, pricing, and contact
 Repository
 https://github.com/KevinVanLierdeweb/glamour-barbershop.git
 
-WhatsApp Reservation Bot
+### WhatsApp Reservation Bot
 
 Description
 
