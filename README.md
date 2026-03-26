@@ -49,5 +49,6 @@ State Management: Implemented an in-memory Finite State Machine (FSM) to handle 
 Database & Logic: Integrated Supabase for CRUD operations, featuring resource allocation algorithms to prevent overbooking, and "soft deletes" for cancellations.
 Real-time Telemetry: Built an admin dashboard using Server-Sent Events (SSE) to stream QR codes and system logs efficiently.
 Security & UX: Applied Regex for data validation, time-based rate limiting (anti-spam), and simulated typing delays for a natural user experience.
+
 Repository
 https://github.com/KevinVanLierdeweb/wsp_bot.git
